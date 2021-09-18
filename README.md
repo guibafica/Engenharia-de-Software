@@ -1,7 +1,5 @@
 <img align="right" src="https://github.com/guibafica/Engenharia-de-Software/blob/main/images/engenheiroDeSoftware.svg" width="450"/>
 
-<img align="right" src="https://github.com/guibafica/myProjects/blob/master/images/illustration2.svg" width="400"/>
-
 ### Hello, I'm Guilherme Bafica 👋
 
 Vamos falar um pouco sobre Engenharia de Software, `processo de desenvolvimento de software e sua aplicação no Gerenciamento de Projeto`. 
@@ -20,7 +18,7 @@ Destaco que um software tem como importante objetivo agregar valor a uma organiz
 
 > PORTABILIDADE => Adequação a diferentes ambientes.
 
-<img align="left" src="https://github.com/guibafica/Engenharia-de-Software/blob/master/images/idea.svg" width="300"/>
+<img align="left" src="https://github.com/guibafica/Engenharia-de-Software/blob/main/images/idea.svg" width="300"/>
 
 O processo de desenvolvimento é dividido em 6 etapas:
 - Levantamento de requisitos; 
@@ -31,7 +29,7 @@ O processo de desenvolvimento é dividido em 6 etapas:
 - Implantação.
 
 ## 📝 Levantamento de requisitos => 
-<img align="right" src="https://github.com/guibafica/Engenharia-de-Software/blob/master/images/levantamento.svg" width="400"/>
+<img align="right" src="https://github.com/guibafica/Engenharia-de-Software/blob/main/images/levantamento.svg" width="400"/>
 
 Os requisitos de um sistema são descrições dos serviços fornecidos pelo sistema e as suas restrições operacionais. Esses requisitos refletem as necessidades dos clientes de um sistema que ajuda a resolver algum problema. Atividades de descobrir, analisar, documentar e verificar os serviços fornecidos pelo sistema e suas restrições operacionais.
   - Concepção -> Entendimento inicial do problema, identificação das partes interessadas que serão atendidas pelo software, a natureza da solução desejada e a eficácia da comunicação e colaboração preliminares entre clientes e usuários com a equipe de projeto;
@@ -52,12 +50,12 @@ Os requisitos de um sistema são descrições dos serviços fornecidos pelo sist
   - Gestão -> Finalizando o processo da engenharia de requisitos, a etapa de gestão permite controlar as mudanças dos requisitos à medida que o projeto evolui.
 
 ## 🔎 Análise => 
-<img align="left" src="https://github.com/guibafica/Engenharia-de-Software/blob/master/images/analise.svg" width="400"/>
+<img align="left" src="https://github.com/guibafica/Engenharia-de-Software/blob/main/images/analise.svg" width="400"/>
 
 Análise de ambas as partes do projeto para continuação.
 
 ## 👷 Projeto => 
-<img align="right" src="https://github.com/guibafica/Engenharia-de-Software/blob/master/images/projeto.svg" width="400"/>
+<img align="right" src="https://github.com/guibafica/Engenharia-de-Software/blob/main/images/projeto.svg" width="400"/>
 
 Modelos, ou seja, diagramas, designs e especificações textuais que permitem a implementação.
         
@@ -66,12 +64,12 @@ Modelos, ou seja, diagramas, designs e especificações textuais que permitem a 
 Realizando um paralelo com a Engenharia Civil, temos plantas baixas, projeto estrutural, hidráulico-sanitário, elétrico e etc... Agora, podemos ir para o terreno construir a casa.
 
 ## 💻 Implementação => 
-<img align="left" src="https://github.com/guibafica/Engenharia-de-Software/blob/master/images/implementacao.svg" width="400"/>
+<img align="left" src="https://github.com/guibafica/Engenharia-de-Software/blob/main/images/implementacao.svg" width="400"/>
 
 Realizar a tradução dos modelos de projeto em código executável por meio do uso de uma ou mais linguagens de programação, baseando-se na Funcionalidade, Confiabilidade, Usabilidade, Eficiência, Facilidade de Manutenção e Portabilidade.
 
 ## 🧪 Testes => 
-<img align="right" src="https://github.com/guibafica/Engenharia-de-Software/blob/master/images/testes.svg" width="400"/>
+<img align="right" src="https://github.com/guibafica/Engenharia-de-Software/blob/main/images/testes.svg" width="400"/>
 
 A qualidade do produto software pode ser garantida através de sistemáticas aplicações de testes nos vários estágios do desenvolvimento da aplicação. Esses testes permitem a validação da estrutura interna do software e sua aderência aos respectivos requisitos.        
 Softwares mal testados podem gerar prejuízos às empresas. Um defeito de projeto poderá encadear requisições de compras inadequadas, gerar resultados financeiros incorretos, entre outros. 
@@ -91,7 +89,7 @@ Softwares mal testados podem gerar prejuízos às empresas. Um defeito de projet
     - (Teste de disponibilização) - Também chamado de teste de configuração, tem por objetivo executar o software sobre diversas configurações de softwares e hardwares.
 
 ## 📲 Implantação => 
-<img align="left" src="https://github.com/guibafica/Engenharia-de-Software/blob/master/images/implantacao.svg" width="400"/>
+<img align="left" src="https://github.com/guibafica/Engenharia-de-Software/blob/main/images/implantacao.svg" width="400"/>
 
 O produto software testado em condições de migrar para o ambiente denominado “produção”, ou seja, mundo real, onde os usuários irão utilizá-lo nas suas rotinas diárias, seja na realização de um controle administrativo, seja no contexto de um processo de tomada de decisão. A implantação é a etapa do processo de desenvolvimento de software relacionada à transferência do sistema da comunidade de desenvolvimento para a comunidade de usuários, ou seja, o sistema entra em produção no ambiente real.
         
@@ -104,7 +102,7 @@ O objetivo da implantação é produzir com sucesso a entrega do software para s
   - Prestação de ajuda e assistência aos usuários => Quando a complexidade do software exige um serviço de atendimento aos clientes que procuram esclarecimentos sobre dúvidas relacionadas às funcionalidades ou sobre problemas técnicos relacionados ao software, serviço de help desk.
 
 ## 🔨 "EXTRA "MANUTENÇÃO => 
-<img align="right" src="https://github.com/guibafica/Engenharia-de-Software/blob/master/images/manuntencao2.svg" width="400"/>
+<img align="right" src="https://github.com/guibafica/Engenharia-de-Software/blob/main/images/manuntencao2.svg" width="400"/>
 
 A etapa mais longa do ciclo de vida do software, a manutenção inclui a correção de defeitos não identificados nas etapas anteriores do processo de desenvolvimento de software, no aprimoramento da implementação dos subsistemas e na disponibilização de novas funcionalidades a partir da identificação de novos requisitos. Estas devem ser planejadas, programadas e executadas.
 
@@ -112,5 +110,5 @@ A etapa mais longa do ciclo de vida do software, a manutenção inclui a correç
 
 > REENGENHARIA DE SOFTWARE => Reconstruir o produto com mais funcionalidades, melhor desempenho, confiabilidade e manutenibilidade, focado no aumento da eficiência e competitividade de uma empresa.
 
-<img align="center" src="https://github.com/guibafica/Engenharia-de-Software/blob/master/images/manutencao3.svg" width="400"/>
+<img align="center" src="https://github.com/guibafica/Engenharia-de-Software/blob/main/images/manutencao3.svg" width="400"/>
 
