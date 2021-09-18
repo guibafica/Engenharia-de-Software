@@ -28,6 +28,10 @@ O processo de desenvolvimento é dividido em 6 etapas:
 - Testes;
 - Implantação.
 
+<br/><br/>
+<br/><br/>
+<br/><br/>
+
 ## 📝 Levantamento de requisitos => 
 <img align="right" src="https://github.com/guibafica/Engenharia-de-Software/blob/main/images/levantamento.svg" width="400"/>
 
@@ -49,11 +53,15 @@ Os requisitos de um sistema são descrições dos serviços fornecidos pelo sist
 
   - Gestão -> Finalizando o processo da engenharia de requisitos, a etapa de gestão permite controlar as mudanças dos requisitos à medida que o projeto evolui.
 
+<br/><br/>
+<br/><br/>
+
 ## 🔎 Análise => 
 <img align="left" src="https://github.com/guibafica/Engenharia-de-Software/blob/main/images/analise.svg" width="400"/>
 
 Análise de ambas as partes do projeto para continuação.
 
+<br/><br/>
 ## 👷 Projeto => 
 <img align="right" src="https://github.com/guibafica/Engenharia-de-Software/blob/main/images/projeto.svg" width="400"/>
 
