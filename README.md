@@ -1,4 +1,6 @@
-<img align="right" src="https://github.com/guibafica/Engenharia-de-Software/blob/master/images/engenheiroDeSoftware.svg" width="450"/>
+<img align="right" src="https://github.com/guibafica/Engenharia-de-Software/blob/main/images/engenheiroDeSoftware.svg" width="450"/>
+
+<img align="right" src="https://github.com/guibafica/myProjects/blob/master/images/illustration2.svg" width="400"/>
 
 ### Hello, I'm Guilherme Bafica 👋
 
