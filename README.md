@@ -29,7 +29,6 @@ O processo de desenvolvimento é dividido em 6 etapas:
 - Implantação.
 
 <br/><br/>
-<br/><br/>
 
 ## 📝 Levantamento de requisitos => 
 <img align="right" src="https://github.com/guibafica/Engenharia-de-Software/blob/main/images/levantamento.svg" width="400"/>
@@ -53,14 +52,12 @@ Os requisitos de um sistema são descrições dos serviços fornecidos pelo sist
   - Gestão -> Finalizando o processo da engenharia de requisitos, a etapa de gestão permite controlar as mudanças dos requisitos à medida que o projeto evolui.
 
 <br/><br/>
-<br/><br/>
 
 ## 🔎 Análise => 
 <img align="left" src="https://github.com/guibafica/Engenharia-de-Software/blob/main/images/analise.svg" width="400"/>
 
 Análise de ambas as partes do projeto para continuação.
 
-<br/><br/>
 <br/><br/>
 ## 👷 Projeto => 
 <img align="right" src="https://github.com/guibafica/Engenharia-de-Software/blob/main/images/projeto.svg" width="400"/>
@@ -72,14 +69,12 @@ Modelos, ou seja, diagramas, designs e especificações textuais que permitem a 
 Realizando um paralelo com a Engenharia Civil, temos plantas baixas, projeto estrutural, hidráulico-sanitário, elétrico e etc... Agora, podemos ir para o terreno construir a casa.
 
 <br/><br/>
-<br/><br/>
 
 ## 💻 Implementação => 
 <img align="left" src="https://github.com/guibafica/Engenharia-de-Software/blob/main/images/implementacao.svg" width="400"/>
 
 Realizar a tradução dos modelos de projeto em código executável por meio do uso de uma ou mais linguagens de programação, baseando-se na Funcionalidade, Confiabilidade, Usabilidade, Eficiência, Facilidade de Manutenção e Portabilidade.
 
-<br/><br/>
 <br/><br/>
 
 ## 🧪 Testes => 
@@ -103,7 +98,6 @@ Softwares mal testados podem gerar prejuízos às empresas. Um defeito de projet
     - (Teste de disponibilização) - Também chamado de teste de configuração, tem por objetivo executar o software sobre diversas configurações de softwares e hardwares.
 
 <br/><br/>
-<br/><br/>
 
 ## 📲 Implantação => 
 <img align="left" src="https://github.com/guibafica/Engenharia-de-Software/blob/main/images/implantacao.svg" width="400"/>
@@ -118,7 +112,6 @@ O objetivo da implantação é produzir com sucesso a entrega do software para s
   - Instalação do software => É um processo que inclui a instalação de todos os arquivos necessários à execução do software projetado.
   - Prestação de ajuda e assistência aos usuários => Quando a complexidade do software exige um serviço de atendimento aos clientes que procuram esclarecimentos sobre dúvidas relacionadas às funcionalidades ou sobre problemas técnicos relacionados ao software, serviço de help desk.
 
-<br/><br/>
 <br/><br/>
 
 ## 🔨 "EXTRA "MANUTENÇÃO => 
