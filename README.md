@@ -82,6 +82,8 @@ Realizando um paralelo com a Engenharia Civil, temos plantas baixas, projeto est
 Realizar a tradução dos modelos de projeto em código executável por meio do uso de uma ou mais linguagens de programação, baseando-se na Funcionalidade, Confiabilidade, Usabilidade, Eficiência, Facilidade de Manutenção e Portabilidade.
 
 <br/><br/>
+<br/><br/>
+
 
 ## 🧪 Testes => 
 <img align="right" src="https://github.com/guibafica/Engenharia-de-Software/blob/main/images/testes.svg" width="400"/>
